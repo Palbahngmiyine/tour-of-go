@@ -1,0 +1,7 @@
+# IntelliJ
+.idea
+
+# macOS
+.DS_STORE
+
+*.exe
